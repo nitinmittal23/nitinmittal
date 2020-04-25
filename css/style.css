@@ -232,6 +232,9 @@ input[type="submit"],a{
 .w3_main_grid_right_grid ul li.agile_color3{
 	border-left:4px solid #f73cb9;
 }
+.w3_main_grid_right_grid ul li.agile_color4{
+	border-left:4px solid #06af0f;
+}
 .w3_main_grid_right_grid ul li:last-child{
 	float:right;
 }
