@@ -56,18 +56,18 @@ body a:hover,body a{
 }
 .agileits_copyright p{
 	font-size: 1.8em;
-    color:#fff;
+    color:rgb(255, 255, 255);
     line-height: 1.8em;
     padding: 0 1em;
     text-transform: capitalize;
 }
 .agileits_copyright p a {
-    color:#ccc;
+    color:rgb(212, 212, 212);
 	padding: 0.2em;
-    text-decoration: none;
+	text-decoration: none;
 }
 .agileits_copyright p a:hover{
-	color:#fff;
+	color:#ffffff;
 }
 input[type="submit"],a{
 	transition:.5s ease-in;
@@ -104,14 +104,16 @@ input[type="submit"],a{
 }
 .w3_agileits_personal_card_grid{
 	padding:3em;
-	background: #FAFAFA;
+	background: rgba(250, 250, 250, 0.5);
+	border:3px solid #4DBE2A;
+	
 }
 .wthree_personal_card_gridl {
     float: left;
 }
 .wthree_personal_card_gridl img{
 	height: 100px;
-    border:3px solid #f8992c;
+    border:3px solid #4DBE2A;
     border-radius: 55px;
 }
 .agileits_w3layouts_main_grid_right{
@@ -123,19 +125,19 @@ input[type="submit"],a{
     -moz-background-size: cover;
     -o-background-size: cover;
     -ms-background-size: cover;
-    min-height: 457.5px;
+    min-height: 470.5px;
 }
 .wthree_personal_card_gridr{
 	float:left;
 	margin: 1.2em 0 0 2em;
 }
 .wthree_personal_card_gridr h2{
-	font-size:1.3em;
-	color:#212121;
+	font-size:1.6em;
+	color:#ffffff;
 }
 .wthree_personal_card_gridr p{
-	font-size: 14px;
-    color: #999;
+	font-size: 16px;
+    color: rgb(256, 256, 256);
     margin: .5em 0 0;
 }
 .agileinfo_personal_text{
@@ -143,7 +145,7 @@ input[type="submit"],a{
 }
 .agileinfo_personal_text p{
 	line-height:2em;
-	color:#999;
+	color:rgb(0, 0, 0);
 	font-size:14px;
 }
 .agileits_plans ul{
@@ -151,7 +153,7 @@ input[type="submit"],a{
 }
 .agileits_plans h3{
 	font-size:1.2em;
-	color:#f8992c;
+	color:#4DBE2A;
 	margin-bottom:1em;
 }
 .agileits_plans ul li{
@@ -174,7 +176,7 @@ input[type="submit"],a{
 	text-transform:uppercase;
 	font-size:1em;
 	letter-spacing:2px;
-	color:#585656;
+	color: #ffffff;
 }
 .w3l_net_worth p{
 	font-size: 1.5em;
@@ -254,8 +256,8 @@ input[type="submit"],a{
     color: #fff;
     border-radius: 4px;
     text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
-    background: #f1a93c;
-    border-color: #f8992c;
+    background: #4DBE2A;
+    border-color: rgb(66, 163, 36);
     font-size: 1.1em;
     width: 5.7em;
     height: 2.5em;
